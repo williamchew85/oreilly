@@ -2,7 +2,7 @@
     "name": "Oreilly",
     "js": [
         {
-            "path": "../../sencha-touch-all-debug.js"
+            "path": "js/sencha-touch-all-debug.js"
         },
         {
             "path": "app.js",
